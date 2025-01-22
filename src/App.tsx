@@ -20,7 +20,7 @@ function App() {
       icon: <AlertTriangle className="w-8 h-8" />,
       description: 'Seismic activity monitoring',
       riskLevel: 'low',
-      image: 'https://images.unsplash.com/photo-1584314590094-51c62fa6c2c7'
+      image: 'https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2023/11/APTOPIX_Nepal_Earthquake_23309471089452-scaled.jpg?size=*:900'
     },
     {
       title: 'Hurricanes',
@@ -34,14 +34,14 @@ function App() {
       icon: <Flame className="w-8 h-8" />,
       description: 'Real-time Forest fire risk assessment',
       riskLevel: 'extreme',
-      image: 'https://images.unsplash.com/photo-1542534759-05f6c34a9e63'
+      image: 'https://cdn.who.int/media/images/default-source/health-and-climate-change/fire-fighters-at-forest-fire-c-quarrie-photography.tmb-1920v.jpg?sfvrsn=8b60f828_4'
     },
     {
       title: 'Landslides',
       icon: <Mountain className="w-8 h-8" />,
       description: 'Seismic activity monitoring',
       riskLevel: 'moderate',
-      image: 'https://images.unsplash.com/photo-1599814516774-fb27c579d8f2'
+      image: 'https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/15/full/1721033885-7643.jpg'
     },
     {
       title: 'Thunderstorm',
