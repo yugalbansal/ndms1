@@ -3,7 +3,7 @@ import { AlertTriangle, Droplets, Mountain, Wind, Flame, Cloud, Navigation, Pack
 import DisasterCard from './components/DisasterCard';
 import ChatBot from './components/ChatBot';
 import Header from './components/Header';
-
+import FloodPage from './components/FloodPage';
 function App() {
   const [showChat, setShowChat] = useState(false);
 
