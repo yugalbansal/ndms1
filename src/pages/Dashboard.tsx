@@ -20,7 +20,7 @@ function Dashboard() {
       icon: <AlertTriangle className="w-8 h-8" />,
       description: 'Seismic activity monitoring',
       riskLevel: 'low',
-      image: 'https://images.unsplash.com/photo-1584314590094-51c62fa6c2c7'
+      image: 'https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2024-01/240117-japan-earthquake-05-aa-1b5d87.jpg'
     },
     {
       title: 'Hurricanes',
@@ -34,14 +34,14 @@ function Dashboard() {
       icon: <Flame className="w-8 h-8" />,
       description: 'Real-time Forest fire risk assessment',
       riskLevel: 'extreme',
-      image: 'https://images.unsplash.com/photo-1542534759-05f6c34a9e63'
+      image: 'https://media.licdn.com/dms/image/v2/C4E12AQEuUMB2nOekWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1628366906958?e=2147483647&v=beta&t=TBPXEz-uQiuiomWn8z7ZF6_DW-k1L8vcOQjBDQxJ4oI'
     },
     {
       title: 'Landslides',
       icon: <Mountain className="w-8 h-8" />,
       description: 'Seismic activity monitoring',
       riskLevel: 'moderate',
-      image: 'https://images.unsplash.com/photo-1599814516774-fb27c579d8f2'
+      image: 'https://www.abhibus.com/blog/wp-content/uploads/2023/06/Safety-Tips-and-Precautions-During-landslide-1-696x464.jpg'
     },
     {
       title: 'Thunderstorm',
